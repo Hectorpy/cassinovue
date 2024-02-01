@@ -1,0 +1,68 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_bat)">
+        <path
+                d="M63.046 39.741c-4.274 17.143-21.64 27.576-38.786 23.301C7.12 58.768-3.314 41.404.962 24.262 5.235 7.117 22.6-3.317 39.742.957c17.145 4.274 27.578 21.64 23.304 38.784z"
+                fill="#FF4724"
+        />
+        <path
+                d="M3.873 24.988h0C7.745 9.45 23.482-.006 39.016 3.867h0c15.538 3.873 24.993 19.61 21.12 35.147-3.874 15.535-19.61 24.99-35.15 21.116C9.453 56.258-.002 40.522 3.873 24.988z"
+                stroke="#fff"
+                stroke-opacity=".24"
+                stroke-width="6"
+        />
+        <g style="mix-blend-mode: screen">
+            <path
+                    d="M62.091 21.127L.413 37.13a31.878 31.878 0 01.546-12.867C5.23 7.118 22.596-3.317 39.738.958c10.74 2.677 18.846 10.49 22.353 20.17z"
+                    fill="#fff"
+                    opacity=".3"
+            />
+        </g>
+        <g filter="url(#filter0_di_bat)">
+            <path
+                    d="M57.222 38.29C53.749 52.218 39.64 60.695 25.708 57.22 11.782 53.75 3.304 39.642 6.778 25.713 10.25 11.783 24.36 3.305 38.288 6.778 52.217 10.25 60.695 24.36 57.222 38.29z"
+                    fill="#FF4724"
+            />
+        </g>
+        <g filter="url(#filter1_d_bat)" fill="#fff">
+            <path
+                    d="M25.086 38.54h13.828l10.029 5.828c-.09.158-.285.257-.562.257H15.62c-.277 0-.472-.099-.562-.257-.09-.158-.078-.376.06-.615l16.38-28.394c.138-.24.32-.359.502-.359v11.555L25.086 38.54z"
+            />
+            <path d="M48.943 44.368l-10.03-5.828L32 26.555V15c.182 0 .365.12.503.36l16.379 28.393c.138.24.15.457.06.615z" />
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_di_bat" x="1" y="3" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+            <feOffset dx="-1" dy="1" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.32 0" />
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dx="-1" dy="2" />
+            <feGaussianBlur stdDeviation="1" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0" />
+            <feBlend in2="shape" result="effect2_innerShadow" />
+        </filter>
+        <filter
+                id="filter1_d_bat"
+                x="13"
+                y="15"
+                width="36"
+                height="31.625"
+                filterUnits="userSpaceOnUse"
+                color-interpolation-filters="sRGB"
+        >
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+            <feOffset dx="-1" dy="1" />
+            <feGaussianBlur stdDeviation=".5" />
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0" />
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+        <clipPath id="clip0_bat"><path fill="#fff" d="M0 0h64v64H0z" /></clipPath>
+    </defs>
+</svg>
